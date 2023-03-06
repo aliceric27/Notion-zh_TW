@@ -10,13 +10,6 @@
 
 ## 電腦版
 
-### Macbook Arm晶片系列
-
-1. 下載後解壓縮
-2. 移除原版本 Notion
-3. 將解壓縮後的 Notion 拖曳到 Finder 應用程式
-4. 登入後切換一下其他語言應可正常顯示
-
 ### windows
 1. （自**2.0.4**版本後，任意語言都等同於中文了）
 2. notion 安裝目錄：`C:\Users\使用者名稱\AppData\Local\Programs\Notion\`
